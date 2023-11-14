@@ -1,2 +1,1 @@
 require board=lahaina|a73xq
-require version-bootloader-min=B
