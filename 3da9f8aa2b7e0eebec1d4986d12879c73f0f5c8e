@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d16055d_49fde01c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34230
+      },
+      "writtenOn": "2024-10-15T20:14:07Z",
+      "side": 1,
+      "message": "404673: a73xq: correct input acdb IDs | https://review.lineageos.org/c/LineageOS/android_device_samsung_a73xq/+/404673",
+      "revId": "3da9f8aa2b7e0eebec1d4986d12879c73f0f5c8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
