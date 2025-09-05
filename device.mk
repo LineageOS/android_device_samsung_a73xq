@@ -43,5 +43,5 @@ PRODUCT_PACKAGES += \
     sensors.a73xq
 
 # UDFPS
-$(call soong_config_set,samsung_udfps,udfps_zorder,0x20000000u)
+$(call soong_config_set,samsungUdfpsVars,udfps_zorder,0x20000000u)
 $(call soong_config_set,surfaceflinger,udfps_lib,//hardware/samsung/fingerprint:libudfps_extension.samsung)
