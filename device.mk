@@ -24,7 +24,8 @@ $(call inherit-product, vendor/samsung/a73xq/a73xq-vendor.mk)
 
 # Init files
 PRODUCT_PACKAGES += \
-    init.a73xq.rc
+    init.a73xq.rc \
+    wifi_firmware_a73xq.rc
 
 # Audio
 PRODUCT_COPY_FILES += \
