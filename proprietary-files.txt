@@ -187,6 +187,7 @@ vendor/firmware/tsp_synaptics/s3908_a73xq_csot.bin:recovery/root/vendor/firmware
 vendor/firmware/tsp_synaptics/s3908_a73xq_sdc_4th.bin:recovery/root/vendor/firmware/tsp_synaptics/s3908_a73xq_sdc_4th.bin
 vendor/firmware/tsp_synaptics/s3908_a73xq_sdc.bin:recovery/root/vendor/firmware/tsp_synaptics/s3908_a73xq_sdc.bin
 
+# WLAN.MSL.1.0.1.c3-00188-QCAMSLSWPLZ-1
 # Wifi firmware (bootloader revision 2) - from A736BXXU2BVK2 (T)
 vendor/firmware/wpss.b00|bbbf98507f63f2fbc6f04ed5328d88190de9f124
 vendor/firmware/wpss.b01|c324e70bfd4340774fe094ca662d809872f6bd30
@@ -198,6 +199,7 @@ vendor/firmware/wpss.b06|4a527ed4dfc2be3a12cfa5c6f6cff5513bfe34d7
 vendor/firmware/wpss.b07|3413d463c82e90fe1ef15c8dc65502050265ca31
 vendor/firmware/wpss.mdt|4ff4947de8ec802487ee73a41b10af2e62dfda7b
 
+# WLAN.MSL.1.0.1.c3-00195-QCAMSLSWPLZ-1
 # Wifi firmware (bootloader revision 3) - from A736BXXU3CWB7 (T)
 vendor/firmware/wlan/rev3/wpss.b00|ec9771fe39350cc2ff27c36e5fdb7f8f0ca4aeb3
 vendor/firmware/wlan/rev3/wpss.b01|ef92a353ef7702d68d4f40045b6fef208366557c
@@ -209,6 +211,7 @@ vendor/firmware/wlan/rev3/wpss.b06|aa2cdff7b662830ecc28261eb963ea5d78a06842
 vendor/firmware/wlan/rev3/wpss.b07|ccd078161284175e6ea66ba1314e79707894ea84
 vendor/firmware/wlan/rev3/wpss.mdt|1df02f5e17776b70644d2fc8be5b2420a2e23f9b
 
+# WLAN.MSL.1.0.1.c3-00204-QCAMSLSWPLZ-1.582278.2
 # Wifi firmware (bootloader revision 4) - from A736BXXU4CWE4 (T)
 vendor/firmware/wlan/rev4/wpss.b00|6e49240887c3130b534baa1fac897a797f895b15
 vendor/firmware/wlan/rev4/wpss.b01|27c8748707c56a03a4a2274e7930c47f9098c8f9
@@ -220,6 +223,7 @@ vendor/firmware/wlan/rev4/wpss.b06|5a8550f4952ac9ffa8d10280a70e92770a1d41a6
 vendor/firmware/wlan/rev4/wpss.b07|ca58a5af6afcd88b0acca60d9c1da7e994b4e8a8
 vendor/firmware/wlan/rev4/wpss.mdt|51ec0215896c98a5c8d1e7afd7b5720a61dbdf4d
 
+# WLAN.MSL.1.0.1.c3-00221-QCAMSLSWPLZ-1
 # Wifi firmware (bootloader revision 5) - from A736BXXU5CWH7 (T)
 vendor/firmware/wlan/rev5/wpss.b00|a0aca70369a1a0a4a83c8356cd7264ff363911ff
 vendor/firmware/wlan/rev5/wpss.b01|ed07e4aa7cbab3d80c476d44ac96f731974b276f
@@ -231,6 +235,7 @@ vendor/firmware/wlan/rev5/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
 vendor/firmware/wlan/rev5/wpss.b07|bcb23af60ccbc1711b58c131aefaafe15a162d65
 vendor/firmware/wlan/rev5/wpss.mdt|4ce7cb7b78a5f642def1d61e50d0aa6581ff2a9d
 
+# WLAN.MSL.1.0.1.c3-00228-QCAMSLSWPLZ-1.47764.2
 # Wifi firmware (bootloader revision 6) - from A736BXXS6DWL2 (U)
 vendor/firmware/wlan/rev6/wpss.b00|cacb157ada108966547ba56ce85b18b5f4375b76
 vendor/firmware/wlan/rev6/wpss.b01|bbb920b6b767cc50eb47e7a558f9a33a994fbc9e
@@ -238,10 +243,10 @@ vendor/firmware/wlan/rev6/wpss.b02|9e181ded637329fc207048fc49742cd1f94fc69e
 vendor/firmware/wlan/rev6/wpss.b03|53da0f973a5638b78ff62bcdfd8ddb52585c5850
 vendor/firmware/wlan/rev6/wpss.b04|c907076779e7726c18739dae823859eec1dac25d
 vendor/firmware/wlan/rev6/wpss.b05|3cbbcb2923dbd6423df3a1ddbf984646d894faf7
-vendor/firmware/wlan/rev6/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
 vendor/firmware/wlan/rev6/wpss.b07|a5059d526e0897c81317d8a31b64b24330ef9b08
 vendor/firmware/wlan/rev6/wpss.mdt|0c2d9481221b2e0bdac928cbe4a237556c5fe763
 
+# WLAN.MSL.1.0.1.c3-00228-QCAMSLSWPLZ-1.48103.10
 # Wifi firmware (bootloader revision 7) - from A736BXXS7DXD5 (U)
 vendor/firmware/wlan/rev7/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
 vendor/firmware/wlan/rev7/wpss.b01|9b4646f694ee5a06506016b6022ddf7ab912c746
@@ -249,32 +254,18 @@ vendor/firmware/wlan/rev7/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
 vendor/firmware/wlan/rev7/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
 vendor/firmware/wlan/rev7/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
 vendor/firmware/wlan/rev7/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
-vendor/firmware/wlan/rev7/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
 vendor/firmware/wlan/rev7/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
 vendor/firmware/wlan/rev7/wpss.mdt|1dba2aa21f51f24225c486e2677949de763cbc12
 
 # Wifi firmware (bootloader revision 8) - from A736BXXS8EXE5 (U)
-vendor/firmware/wlan/rev8/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
 vendor/firmware/wlan/rev8/wpss.b01|e41ba64bbb44f1cb959eb25762d0f471adf19156
-vendor/firmware/wlan/rev8/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
-vendor/firmware/wlan/rev8/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
-vendor/firmware/wlan/rev8/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
-vendor/firmware/wlan/rev8/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
-vendor/firmware/wlan/rev8/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
-vendor/firmware/wlan/rev8/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
 vendor/firmware/wlan/rev8/wpss.mdt|363dcb8e40b872123ee68d25735e068784ea63d7
 
 # Wifi firmware (bootloader revision 9) - from A736BXXS9EXG2 (U)
-vendor/firmware/wlan/rev9/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
 vendor/firmware/wlan/rev9/wpss.b01|b98e7af1f05c285e8fdb244b8fc8b2646e5eb85a
-vendor/firmware/wlan/rev9/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
-vendor/firmware/wlan/rev9/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
-vendor/firmware/wlan/rev9/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
-vendor/firmware/wlan/rev9/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
-vendor/firmware/wlan/rev9/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
-vendor/firmware/wlan/rev9/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
 vendor/firmware/wlan/rev9/wpss.mdt|f9422b382b08932f3119a0cca803b4b7f59164b7
 
+# WLAN.MSL.1.0.1.c3-00228-QCAMSLSWPLZ-1.48103.31
 # Wifi firmware (bootloader revision 10) - from A736BXXUAEXK2 (U)
 vendor/firmware/wlan/rev10/wpss.b00|8575e1dcc60ceabcdd71614bf166b43516dc9581
 vendor/firmware/wlan/rev10/wpss.b01|a232072e22f0195fb2c86bb86e14ff61c6e0747f
@@ -282,6 +273,5 @@ vendor/firmware/wlan/rev10/wpss.b02|aad880e803217c6e3d0a26dc7caa73d157330c72
 vendor/firmware/wlan/rev10/wpss.b03|faa8ea4c7d78d00e891423b87f4a9f78c66f425c
 vendor/firmware/wlan/rev10/wpss.b04|966ced8b50a6476c9090669e053a2975ba21f297
 vendor/firmware/wlan/rev10/wpss.b05|f38b129c4f6227477511859a6249a3481c4a07f9
-vendor/firmware/wlan/rev10/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
 vendor/firmware/wlan/rev10/wpss.b07|748df8e5e00a69d9ead466924833f87b525eda7f
 vendor/firmware/wlan/rev10/wpss.mdt|41cd038deb2e44fad12d7e1ea2dfb834bf82b6e3
