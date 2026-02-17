@@ -26,7 +26,7 @@ vendor/firmware/bt_nvm_loading.xml
 
 # Camera
 vendor/lib64/hw/camera.qcom.so
-vendor/lib64/hw/com.qti.chi.override.so|364c1a1ae9ee8bce1422219cf55cec648141f85c
+vendor/lib64/hw/com.qti.chi.override.so|622e4304665a0c61ff150e1a8a9209ec0bd18363|622e4304665a0c61ff150e1a8a9209ec0bd18363
 vendor/lib64/camera/t_t10_dual_calibration.bin
 vendor/lib64/camera/com.qti.eeprom.truly_cmb433.so
 vendor/lib64/camera/com.qti.eeprom.irs2381c_polar.so
@@ -161,7 +161,7 @@ vendor/etc/init/nxp.android.hardware.nfc@1.2-service.rc
 vendor/etc/nfc/libnfc-nxp_RF.conf
 vendor/etc/libnfc-nxp.conf
 vendor/lib64/vendor.samsung.hardware.nfc@2.0.so
-vendor/lib64/nfc_nci_nxpsn.so|158f00a79a40f5e07238622a9f3e8d8e5faf82fe
+vendor/lib64/nfc_nci_nxpsn.so|67295767ccb70aba6ee3c6c9a10dedde3a806b13|277fc674b043776431a52da789b012151aec7e74
 vendor/firmware/nfc/libpn557_fw.so
 
 # Sensors
