@@ -1,4 +1,4 @@
-# All blobs are from A736BXXSAGZA1 (B), unless pinned
+# All blobs are from A736BXXSBGZB2 (B), unless pinned
 
 # Audio
 vendor/lib/hw/audio.primary.lahaina.so
@@ -26,7 +26,7 @@ vendor/firmware/bt_nvm_loading.xml
 
 # Camera
 vendor/lib64/hw/camera.qcom.so
-vendor/lib64/hw/com.qti.chi.override.so|622e4304665a0c61ff150e1a8a9209ec0bd18363|e86d19446d5fc98f1bc0aa2bf73e3d74504509d5
+vendor/lib64/hw/com.qti.chi.override.so|75dc06cd645087d1fade7624d744f492cf3f985d|f8490adcc41de67d63715785569ed7b04d739162
 vendor/lib64/camera/t_t10_dual_calibration.bin
 vendor/lib64/camera/com.qti.eeprom.truly_cmb433.so
 vendor/lib64/camera/com.qti.eeprom.irs2381c_polar.so
