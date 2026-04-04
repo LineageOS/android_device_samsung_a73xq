@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc8d12d4_bb967b10",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 36296
+      },
+      "writtenOn": "2026-04-04T16:38:15Z",
+      "side": 1,
+      "message": "see comment at m52xq\nhttps://review.lineageos.org/c/LineageOS/android_device_samsung_m52xq/+/479804",
+      "range": {
+        "startLine": 191,
+        "startChar": 0,
+        "endLine": 192,
+        "endChar": 35
+      },
+      "revId": "c7b83cdb36ea77995ccf89c1c3613e5750501307",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
