@@ -20,7 +20,6 @@ include device/samsung/sm7325-common/BoardConfigCommon.mk
 
 # Kernel
 TARGET_KERNEL_CONFIG        := vendor/lineage-a73xq_defconfig
-BOARD_NAME                  := SRPUH27A001
 
 # Kernel modules
 BOARD_VENDOR_KERNEL_MODULES_LOAD := $(strip $(shell cat $(DEVICE_PATH)/modules.load))
