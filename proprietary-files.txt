@@ -175,6 +175,9 @@ vendor/etc/sensors/config/kodiak_ak991x_3.json
 vendor/etc/sensors/config/kodiak_icm4x6xx_0.json
 vendor/etc/sensors/config/kodiak_stk3a0x_0.json
 
+# Thermal config
+vendor/etc/mercury.json
+
 # Touchscreen firmware
 vendor/firmware/tsp_synaptics/s3908_a73xq_boe.bin
 vendor/firmware/tsp_synaptics/s3908_a73xq_csot.bin
